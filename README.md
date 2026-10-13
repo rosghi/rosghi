@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Olá, sou o Roshgi. Estou a aprender IA local, agentes e automação.
 <!--
 **rosghi/rosghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
